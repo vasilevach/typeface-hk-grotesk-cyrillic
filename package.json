@@ -1,0 +1,16 @@
+{
+  "name": "typeface-hk-grotesk-cyrillic",
+  "version": "1.0.0",
+  "description": "HK-Grotesk Cyrillic Typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "hk-grotesk",
+    "cyrillic"
+  ],
+  "author": "Chris Panayotova <panayotova.ch@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/vasilevach/typeface-hk-grotesk-cyrillic"
+}
